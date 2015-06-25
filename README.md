@@ -1,0 +1,1 @@
+To run this application, have ruby installed, and run bundle install in the directory from the terminal. 
